@@ -34,6 +34,5 @@
 ## webpack-dev-server
 **支持本地开发**
 
-
 ## html-webpack-plugin
 将构建结果 与 模板 ```index.html``` 关联起来
