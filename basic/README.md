@@ -1,8 +1,7 @@
 
 # package-dev 描述
 
-目录
-- [package-dev 描述](#package-dev-%e6%8f%8f%e8%bf%b0)
+## 目录
   - [babel-core](#babel-core)
   - [babel-preset-env](#babel-preset-env)
   - [css-loader](#css-loader)
@@ -10,6 +9,7 @@
   - [file-loader](#file-loader)
   - [webpack](#webpack)
   - [webpack-dev-server](#webpack-dev-server)
+  - [html-webpack-plugin](#html-webpack-plugin)
 
 
 
@@ -33,3 +33,7 @@
 
 ## webpack-dev-server
 **支持本地开发**
+
+
+## html-webpack-plugin
+将构建结果 与 模板 ```index.html``` 关联起来
